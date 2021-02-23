@@ -1,0 +1,33 @@
+{
+    "adultHouseHold":3,
+    "childrenInHouseHold":2,
+    "noOfApplicaint":2,
+    "firstName":"Edward",
+    "lastName":"Mathis",
+    "firstName2":"taimur",
+    "lastName2":"aamer",
+    "next":"button[type='submit']",
+
+    "phoneNumber":"122112211",
+    "basicEmail":"t.aamer@gmail.com",
+    "street":"Voluptatum molestias",
+    "number":"100021",
+    "zipCode":"99099",
+    "tenanSince":"Laborum et consequat",
+    "occupation":"Doctor",
+    "netIncome":"814",
+
+    "EmployerName":"Skyler Boyle",
+    "otherIncomeSource":"865",
+    "employmentPeriod":"Veniam sint quo ha",
+    "incomeNotEnoughReason":"income Not Enough",
+    "houseHoldPersonName":"Theodore Gilliam",
+    "houseHoldRelationship":"Rerum aute eius temp",
+    "houseHoldNetIncome":"323",
+    
+    "hadRentIssues":"Temporibus corrupti",
+    "apartmentUse":"Qui facilis et quia",
+    "uploadFile":"QA.pdf",
+
+    "password":"Admin@123"
+}
